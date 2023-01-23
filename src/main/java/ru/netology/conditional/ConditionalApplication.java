@@ -8,6 +8,7 @@ public class ConditionalApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ConditionalApplication.class, args);
+
     }
 
 }
