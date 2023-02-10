@@ -5,7 +5,7 @@
 ## Описание
 
 **Шаг 0.** Если ваш компьютер использует ОС Windows, тогда проверьте, что в `Docker desktop` в настройках, во вкладке General стоит галочка напротив пункта `Expose daemon on...`, как на скрине ниже. 
-![](../resources/image.png)
+![]([../resources/image.png](https://github.com/netology-code/jd-homeworks/blob/master/containers/resources/image.png))
 
 **Шаг 1.** Сначала вам надо собрать jar-архивы с вашими Spring Boot приложениями. Для этого в терминале, в корне вашего проекта выполните команду.
                                                                                
